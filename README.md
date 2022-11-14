@@ -1,2 +1,3 @@
 # extremewildfire
-Analysis of extreme wildfires 
+NCL and matlab code for the analysis of extreme wildfires.
+
